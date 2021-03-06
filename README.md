@@ -14,7 +14,7 @@ Jobly allows users to:
 * View the jobs posted by each company
 * Click an Apply button  -  Jobly remembers which jobs the user applied to
 
-# Getting Started on the Server 
+# Getting Started on the Server-side
 Clone this repository  
 `cd jobly-backend-express`   
 `npm install`  
@@ -23,7 +23,7 @@ Clone this repository
 `psql jobly < data.sql`  
 `npm start`  
 
-# Getting Started on the Client
+# Getting Started on the Client-side
 Clone the [frontend repository](https://github.com/s34n-k1m/jobly-frontend-react)  
 `cd jobly-frontend-react`  
 `npm install`  
